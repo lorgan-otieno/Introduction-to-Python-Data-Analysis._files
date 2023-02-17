@@ -1,0 +1,4 @@
+# this is the first analysis for IT salary survey for EU region
+import pandas as pd
+import seaborn as sns
+import numpy as np
